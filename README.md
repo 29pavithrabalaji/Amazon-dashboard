@@ -28,5 +28,5 @@
 
 <p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
   <a href="https://www.linkedin.com/in/bpavithrabalaji/">
-  <img src=" Linkedln | Pavithra balaji" alt=""> Linkedln | Mariya Joseph</a><br>
+  <img src=" Linkedln | Pavithra balaji" alt=""> Linkedln | Pavithra balaji</a><br>
   <p> Don't forget to follow and star ⭐ the repository if you find it valuable.</p>
